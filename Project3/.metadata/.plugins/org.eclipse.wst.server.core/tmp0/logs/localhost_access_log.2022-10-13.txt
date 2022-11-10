@@ -1,0 +1,12 @@
+127.0.0.1 - - [13/Oct/2022:15:36:57 +0530] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [13/Oct/2022:15:36:58 +0530] "GET /ORS_Project3/ HTTP/1.1" 200 673
+0:0:0:0:0:0:0:1 - - [13/Oct/2022:15:37:02 +0530] "GET /ORS_Project3/WelcomeCtl HTTP/1.1" 200 3556
+0:0:0:0:0:0:0:1 - - [13/Oct/2022:15:37:09 +0530] "GET /ORS_Project3/LoginCtl HTTP/1.1" 200 5616
+0:0:0:0:0:0:0:1 - - [13/Oct/2022:15:37:30 +0530] "POST /ORS_Project3/LoginCtl HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [13/Oct/2022:15:37:30 +0530] "GET /ORS_Project3/WelcomeCtl HTTP/1.1" 200 9641
+0:0:0:0:0:0:0:1 - - [13/Oct/2022:15:37:39 +0530] "GET /ORS_Project3/ctl/MarksheetMeritListCtl HTTP/1.1" 200 12073
+0:0:0:0:0:0:0:1 - - [13/Oct/2022:15:37:51 +0530] "GET /ORS_Project3/ctl/JasperCtl HTTP/1.1" 200 1856
+0:0:0:0:0:0:0:1 - - [13/Oct/2022:15:41:28 +0530] "GET /ORS_Project3/ctl/JasperCtl HTTP/1.1" 200 1856
+0:0:0:0:0:0:0:1 - - [13/Oct/2022:15:54:26 +0530] "GET /ORS_Project3/LoginCtl?operation=LogOut HTTP/1.1" 200 5886
+0:0:0:0:0:0:0:1 - - [13/Oct/2022:15:59:05 +0530] "GET /ORS_Project3/LoginCtl HTTP/1.1" 200 5616
+0:0:0:0:0:0:0:1 - - [13/Oct/2022:15:59:07 +0530] "GET /ORS_Project3/UserRegistrationCtl HTTP/1.1" 200 9164

@@ -1,0 +1,12 @@
+127.0.0.1 - - [09/Nov/2022:15:23:18 +0530] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [09/Nov/2022:15:23:22 +0530] "GET /project_3/ HTTP/1.1" 200 806
+0:0:0:0:0:0:0:1 - - [09/Nov/2022:15:23:22 +0530] "GET /project_3/img/istockphoto-1353553203-170667a.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [09/Nov/2022:16:36:49 +0530] "GET /project_3/WelcomeCtl HTTP/1.1" 404 973
+0:0:0:0:0:0:0:1 - - [09/Nov/2022:16:36:49 +0530] "GET /project_3/ErrorCtl/img/logo.png HTTP/1.1" 404 973
+0:0:0:0:0:0:0:1 - - [09/Nov/2022:16:36:55 +0530] "GET /project_3/WelcomeCtl HTTP/1.1" 404 973
+0:0:0:0:0:0:0:1 - - [09/Nov/2022:16:37:15 +0530] "GET /project_3/WelcomeCtl HTTP/1.1" 404 973
+0:0:0:0:0:0:0:1 - - [09/Nov/2022:16:37:17 +0530] "GET /project_3/WelcomeCtl HTTP/1.1" 404 973
+0:0:0:0:0:0:0:1 - - [09/Nov/2022:16:37:18 +0530] "GET /project_3/WelcomeCtl HTTP/1.1" 404 973
+0:0:0:0:0:0:0:1 - - [09/Nov/2022:16:37:19 +0530] "GET /project_3/WelcomeCtl HTTP/1.1" 404 973
+0:0:0:0:0:0:0:1 - - [09/Nov/2022:16:37:19 +0530] "GET /project_3/WelcomeCtl HTTP/1.1" 404 973
+0:0:0:0:0:0:0:1 - - [09/Nov/2022:16:37:21 +0530] "GET /project_3/WelcomeCtl HTTP/1.1" 404 973
